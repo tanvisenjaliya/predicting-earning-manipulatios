@@ -1,4 +1,4 @@
-# predicting-earning-manipulatios
+# Earning Manipulation-Fraud Analytics
 
 Since the data was highly imbalanced, it is prefferd to use ensemble methods. And after training various model we can see that RandomForest Classifier and Voting classifier are most suitable for Manipulator prediction.
 
